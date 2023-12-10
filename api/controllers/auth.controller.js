@@ -44,7 +44,7 @@ export const login = async (req, res, next) => {
 
         const { password, ...info } = user._doc;
 
-        res.cookie("accessToken", token).status(200).send(info);
+        res.cookie("accessToken", token, { secure: true }).status(200).send(info);
 
     } catch (err) {
         next(err);
