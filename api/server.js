@@ -17,7 +17,7 @@ dotenv.config();
 mongoose.set('strictQuery', true);
 app.use(express.json());
 app.use(cookieParser());
-app.use(cors({origin:'https://fiverr-harsh.vercel.app/', credentials: true }));
+app.use(cors({origin:'https://fiverr-harsh.vercel.app', credentials: true }));
 
 const connect = async () => {
     try {
