@@ -17,7 +17,7 @@ dotenv.config();
 mongoose.set('strictQuery', true);
 app.use(express.json());
 app.use(cookieParser());
-app.use(cors({ origin: "https://good-gold-dolphin-wear.cyclic.app", credentials: true }));
+app.use(cors({ credentials: true }));
 
 const connect = async () => {
     try {
