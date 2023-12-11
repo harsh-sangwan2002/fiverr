@@ -48,6 +48,7 @@ export const login = async (req, res, next) => {
             httpOnly: true,
             path: "/",
             maxAge: 30 * 24 * 60 * 60 * 1000,
+            secure: true
         }).status(200).send(info);
 
     } catch (err) {
