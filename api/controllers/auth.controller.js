@@ -45,10 +45,7 @@ export const login = async (req, res, next) => {
         const { password, ...info } = user._doc;
 
         res.cookie("accessToken", token, {
-            httpOnly: true,
-            path: "/",
-            maxAge: 30 * 24 * 60 * 60 * 1000,
-            secure: true
+            httpOnly: true
         }).status(200).send(info);
 
     } catch (err) {
