@@ -1,4 +1,4 @@
-# Fiverr Frontend
+# Fiverr
 
 - [Link](https://fiverr-harsh.vercel.app/)
 
