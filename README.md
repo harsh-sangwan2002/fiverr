@@ -8,18 +8,21 @@ A quick guide to my Project ->
 
 ## Tools Used
 
-- Node JS
-- JavaScript
-- Express JS
-- Mongoose
-- MongoDB
-- JWT
 - React JS
-- react-router-dom
-- react-query
-- axios
+- Node JS
+- Express JS
+- MongoDB
+- Mongoose
+- JWT
 - SCSS
-- CSS
+
+## Usage
+
+- Engineered a full-stack web application, Fiverr, achieving a Largest Contentful Paint (LCP) of less than 1 second for enhanced user experience.
+
+- Designed an engaging UI using React and SCSS, improving user interaction and usability.
+
+- Implemented server-side functionality with Node.js and Mongoose, maintaining 98% uptime for optimal performance.
 
 # Getting Started with Create React App
 
@@ -36,10 +39,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## Usage
-
-A platform connecting freelancers and clients globally, facilitating diverse services, from design to programming, fostering creative collaborations.
 
 Click on
 
