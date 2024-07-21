@@ -6,7 +6,7 @@
 
 Check out the live demo of this app [here](https://fiverr-harsh.vercel.app/).
 
-<img src ="./imge.webp">
+<img src ="./image.webp">
 
 ## Description
 
