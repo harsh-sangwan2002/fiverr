@@ -1,12 +1,22 @@
-# Fiverr
+# Disney Flix
 
-- [Link](https://fiverr-harsh.vercel.app/)
+-  Designed a full-stack app with &lt; 1s LCP, engaging UI, and 98% uptime using React, SCSS, Node.js, and Mongoose.
 
-A quick guide to my Project ->
+## Live Demo
 
-<img src = "/image.webp">
+Check out the live demo of this app [here](https://fiverr-harsh.vercel.app/).
 
-## Tools Used
+<img src ="./imge.webp">
+
+## Description
+
+- Engineered a full-stack web application, Fiverr, achieving a Largest Contentful Paint (LCP) of less than 1 second for enhanced user experience.
+
+- Designed an engaging UI using React and SCSS, improving user interaction and usability.
+
+- Implemented server-side functionality with Node.js and Mongoose, maintaining 98% uptime for optimal performance.
+
+## Technologies Used
 
 - React JS
 - Node JS
@@ -16,33 +26,28 @@ A quick guide to my Project ->
 - JWT
 - SCSS
 
-## Usage
+### Clone and Run
 
-- Engineered a full-stack web application, Fiverr, achieving a Largest Contentful Paint (LCP) of less than 1 second for enhanced user experience.
+1. Clone the repository:
 
-- Designed an engaging UI using React and SCSS, improving user interaction and usability.
+```bash
+git clone https://github.com/harsh-sangwan2003/fiverr
+```
 
-- Implemented server-side functionality with Node.js and Mongoose, maintaining 98% uptime for optimal performance.
+2. Navigate to the project directory:
 
-# Getting Started with Create React App
+```bash
+cd client
+```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+3. Install dependencies and start the development server:
 
-## Available Scripts
+```bash
+npm install && start
+```
 
-In the project directory, you can run:
+4. Open your browser and navigate to http://localhost:3000 to view the app.
 
-### `npm start`
+## Contributions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-Click on
-
-```js
-npm start
-``` 
-to run the website
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
