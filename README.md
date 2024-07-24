@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Check out the live demo of this app [here](https://fiverr-harsh.vercel.app/).
+Check out the live demo of this website [here](https://fiverr-harsh.vercel.app/).
 
 <img src ="./image.webp">
 
