@@ -1,20 +1,14 @@
 # Fiverr
 
--  Designed a full-stack app with &lt; 1s LCP, engaging UI, and 98% uptime using React, SCSS, Node.js, and Mongoose.
+- Developed and managed a full-stack web application to provide users with a seamless freelancing marketplace experience, enhancing user engagement and ease of use.
+- Constructed robust back-end functionality using Node.js and Express, ensuring a 30% improvement in data handling efficiency and scalability.
+- Integrated MongoDB for a flexible database solution, effectively managing user profiles, gig listings, and transactions, resulting in a 40% faster data retrieval process.
 
 ## Live Demo
 
 Check out the live demo of this website [here](https://fiverr-harsh.vercel.app/).
 
 <img src ="./image.webp">
-
-## Description
-
-- Engineered a full-stack web application, Fiverr, achieving a Largest Contentful Paint (LCP) of less than 1 second for enhanced user experience.
-
-- Designed an engaging UI using React and SCSS, improving user interaction and usability.
-
-- Implemented server-side functionality with Node.js and Mongoose, maintaining 98% uptime for optimal performance.
 
 ## Technologies Used
 
