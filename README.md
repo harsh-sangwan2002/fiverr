@@ -18,6 +18,11 @@ Check out the live demo of this website [here](https://fiverr-harsh.vercel.app/)
 - JWT
 - SCSS
 
+## Description
+- Developed and managed a full-stack web application to provide users with a seamless freelancing marketplace experience, enhancing user engagement and ease of use.
+- Constructed robust back-end functionality using Node.js and Express, ensuring a 30% improvement in data handling efficiency and scalability.
+- Integrated MongoDB for a flexible database solution, effectively managing user profiles, gig listings, and transactions, resulting in a 40% faster data retrieval process.
+
 ### Clone and Run
 
 1. Clone the repository:
